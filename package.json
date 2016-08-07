@@ -1,0 +1,26 @@
+{
+  "name": "study-webpack",
+  "version": "1.0.0",
+  "description": "step by step webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy39/study-webpack.git"
+  },
+  "author": "Tatsuya Nakano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howdy39/study-webpack/issues"
+  },
+  "homepage": "https://github.com/howdy39/study-webpack#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.22.0",
+    "json-loader": "^0.5.4",
+    "webpack": "^1.13.1",
+    "yaml-loader": "^0.4.0"
+  }
+}
